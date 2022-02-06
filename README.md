@@ -2,7 +2,7 @@
 I'm Šarūnas
 
 I'm:
-- Data Engineer, working on NLP and NLG tasks at TokenMill
+- Data Engineer at Ovoko
 - Maintaining Domain Specific Language oriented at Natural Language Processing https://rita-dsl.io/
 - Teaching Programming (in Lithuanian) at https://www.griaustinis.lt/ 👨‍🏫
 - Creator of MacOS App for Photo Import: https://photo-import.griaustinis.lt/
